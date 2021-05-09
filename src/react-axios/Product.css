@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  button {
+      margin-left:10px ;
+      background-color: green;
+      border-radius: 5px;
+      outline: none;
+      color: white;
+      height: 30px;
+      width: 50px;
+      border:none
+  }
+  button:hover{
+    cursor: pointer;
+  }
+  input {
+    margin-left: 10px;
+    outline: none;
+    border-color: tomato;
+  }

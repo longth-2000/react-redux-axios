@@ -1,0 +1,44 @@
+button {
+    background-color: tomato;
+    border : 0px solid white;
+    border-radius: 4px;
+    color:white;
+    margin-left:5px;
+    height: 25px;
+    
+}
+#insert {
+   height: 30px;
+   background-color:darkturquoise;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+#edit {
+    background-color:seagreen;
+}
+table {
+    margin-left: 5px;
+}
+table, th , td {
+    border:1px solid #E0E0E0;
+    border-collapse: collapse;
+}
+th,td{
+    padding: 10px;
+    text-align: left;
+} 
+td div {
+   background-color: tomato; 
+   border-radius: 4px;
+   padding:5px;
+   color: white;
+}
+caption {
+    background-color:dodgerblue;
+    text-align: left;
+    color: white;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 10px;
+    border-radius: 3px;
+}
